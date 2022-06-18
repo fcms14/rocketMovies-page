@@ -1,8 +1,8 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 09 - 01
+	Rocketseat's Explorer Repository - Stage 11 - 01
 </h1>
 <h2 align="center">
-	<a href="https://rocket-seat-91axhc87y-fcms14.vercel.app/"> Stage 09 - Front-end da aplicação </a>
+	<a href="https://grand-salmiakki-450c23.netlify.app/"> Stage 11 - Finalizando o RocketMovies </a>
 </h2>
 
 <p align="center">
@@ -16,24 +16,25 @@
 
 # 💻 Sobre o desafio
 
-E aí, bora praticar React.js? 💜
-A ideia agora é criar o front-end da aplicação em Node.js que você fez no desafio anterior. 
-Top, né? 👀
-Segue o [link](https://www.figma.com/file/UObYagRzmvi5PY4HhmzEHM/RocketMovies/duplicate) do layout dessa aplicação: o RocketMovies.
+Faaaaaala, dev! Infelizmente estamos chegando nos momentos finais do nosso treinamento…😩
+Bora por a mão na massa e aplicar os últimos conceitos vistos em aula, na nossa aplicação **RocketMovies**? ****🚀
 
-E aí, topa encarar esse desafio? 💜
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
+Principais pontos que devem ser entregues nesse desafio:
 
-Lembrando: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso fórum e deixar sua dúvida por lá! 
-Boa sorte e boooooora codar! 🚀
+ **1. Deploy do back-end**
+     Faça o deploy do back-end da sua aplicação utilizando o [**Heroku**](https://www.heroku.com/), como descrito passo a passo em aula.
 
-
-Boa sorte e boooooora codar! **🚀**
+ **2. Deploy do front-end**
+     Faça o deploy do front-end da sua aplicação utilizando o **[Netlify](https://www.netlify.com/)**, como descrito passo a passo em aula.
+**** 
+*Lembrando*: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá!
+Boa sorte e boooooora deployar! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/fcms14?size=100">
